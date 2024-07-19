@@ -1,0 +1,17 @@
+.userDetail {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.button {
+  cursor: pointer;
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
+
+.button:hover {
+  background-color: #d32f2f;
+}
